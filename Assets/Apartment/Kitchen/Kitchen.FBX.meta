@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 37f33c6526d33324f83dfba81a4d0e99
+timeCreated: 1504074490
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Kitchen_Cabinet01
+    100004: Kitchen_Cabinet02
+    100006: Kitchen_Cooking01
+    100008: Kitchen_Door
+    100010: Kitchen_Doorframe03
+    100012: Kitchen_fridge03
+    100014: Kitchen_kettle01_01
+    100016: Kitchen_Knife
+    100018: Kitchen_Microwave01
+    100020: Kitchen_Picture
+    100022: Kitchen_plate
+    100024: Kitchen_pot01
+    100026: Kitchen_Shutters
+    100028: Kitchen_SmokeMachine
+    100030: Kitchen_tableware
+    100032: Kitchen_Watercap
+    100034: Kitchen_Window
+    400000: //RootNode
+    400002: Kitchen_Cabinet01
+    400004: Kitchen_Cabinet02
+    400006: Kitchen_Cooking01
+    400008: Kitchen_Door
+    400010: Kitchen_Doorframe03
+    400012: Kitchen_fridge03
+    400014: Kitchen_kettle01_01
+    400016: Kitchen_Knife
+    400018: Kitchen_Microwave01
+    400020: Kitchen_Picture
+    400022: Kitchen_plate
+    400024: Kitchen_pot01
+    400026: Kitchen_Shutters
+    400028: Kitchen_SmokeMachine
+    400030: Kitchen_tableware
+    400032: Kitchen_Watercap
+    400034: Kitchen_Window
+    2300000: Kitchen_Cabinet01
+    2300002: Kitchen_Cabinet02
+    2300004: Kitchen_Cooking01
+    2300006: Kitchen_Door
+    2300008: Kitchen_Doorframe03
+    2300010: Kitchen_fridge03
+    2300012: Kitchen_kettle01_01
+    2300014: Kitchen_Knife
+    2300016: Kitchen_Microwave01
+    2300018: Kitchen_Picture
+    2300020: Kitchen_plate
+    2300022: Kitchen_pot01
+    2300024: Kitchen_Shutters
+    2300026: Kitchen_SmokeMachine
+    2300028: Kitchen_tableware
+    2300030: Kitchen_Watercap
+    2300032: Kitchen_Window
+    3300000: Kitchen_Cabinet01
+    3300002: Kitchen_Cabinet02
+    3300004: Kitchen_Cooking01
+    3300006: Kitchen_Door
+    3300008: Kitchen_Doorframe03
+    3300010: Kitchen_fridge03
+    3300012: Kitchen_kettle01_01
+    3300014: Kitchen_Knife
+    3300016: Kitchen_Microwave01
+    3300018: Kitchen_Picture
+    3300020: Kitchen_plate
+    3300022: Kitchen_pot01
+    3300024: Kitchen_Shutters
+    3300026: Kitchen_SmokeMachine
+    3300028: Kitchen_tableware
+    3300030: Kitchen_Watercap
+    3300032: Kitchen_Window
+    4300000: Kitchen_Doorframe03
+    4300002: Kitchen_SmokeMachine
+    4300004: Kitchen_Cooking01
+    4300006: Kitchen_Cabinet01
+    4300008: Kitchen_Shutters
+    4300010: Kitchen_Watercap
+    4300012: Kitchen_Microwave01
+    4300014: Kitchen_tableware
+    4300016: Kitchen_pot01
+    4300018: Kitchen_kettle01_01
+    4300020: Kitchen_plate
+    4300022: Kitchen_Cabinet02
+    4300024: Kitchen_Knife
+    4300026: Kitchen_Picture
+    4300028: Kitchen_fridge03
+    4300030: Kitchen_Door
+    4300032: Kitchen_Window
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

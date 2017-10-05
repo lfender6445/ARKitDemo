@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: f67e2cca0ca80e74d87835173f19012b
+timeCreated: 1504074510
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Balcony01_Ceiling
+    100002: Balcony01_floor
+    100004: Balcony01_Railing
+    100006: Balcony01_Wall
+    100008: Balcony02_Ceiling
+    100010: Balcony02_Floor
+    100012: Balcony02_Railing
+    100014: Balcony02_wall01
+    100016: Bathroom _Ceiling
+    100018: Bathroom _Floor
+    100020: Bathroom _Wall
+    100022: Bedroom_Ceiling
+    100024: Bedroom_Floor01
+    100026: Bedroom_Wall01
+    100028: ChildrenRoom_Ceiling
+    100030: ChildrenRoom_Floor
+    100032: ChildrenRoom_Wall01
+    100034: ChildrenRoom_Wall02
+    100036: ChildrenRoom_Window_glass
+    100038: ChildrenRoom_Windows_Frame
+    100040: DiningRoom_Ceiling
+    100042: DiningRoom_Wall
+    100044: Kitchen_ceiling
+    100046: Kitchen_floor
+    100048: Kitchen_Wall
+    100050: LivingRoom_Celing
+    100052: LivingRoom_Floor01
+    100054: LivingRoom_Floor02
+    100056: LivingRoom_Wall
+    100058: LivingRoom_Wall03
+    100060: Study_Celing
+    100062: Study_Floor
+    100064: Study_Wall
+    100066: //RootNode
+    400000: Balcony01_Ceiling
+    400002: Balcony01_floor
+    400004: Balcony01_Railing
+    400006: Balcony01_Wall
+    400008: Balcony02_Ceiling
+    400010: Balcony02_Floor
+    400012: Balcony02_Railing
+    400014: Balcony02_wall01
+    400016: Bathroom _Ceiling
+    400018: Bathroom _Floor
+    400020: Bathroom _Wall
+    400022: Bedroom_Ceiling
+    400024: Bedroom_Floor01
+    400026: Bedroom_Wall01
+    400028: ChildrenRoom_Ceiling
+    400030: ChildrenRoom_Floor
+    400032: ChildrenRoom_Wall01
+    400034: ChildrenRoom_Wall02
+    400036: ChildrenRoom_Window_glass
+    400038: ChildrenRoom_Windows_Frame
+    400040: DiningRoom_Ceiling
+    400042: DiningRoom_Wall
+    400044: Kitchen_ceiling
+    400046: Kitchen_floor
+    400048: Kitchen_Wall
+    400050: LivingRoom_Celing
+    400052: LivingRoom_Floor01
+    400054: LivingRoom_Floor02
+    400056: LivingRoom_Wall
+    400058: LivingRoom_Wall03
+    400060: Study_Celing
+    400062: Study_Floor
+    400064: Study_Wall
+    400066: //RootNode
+    2300000: Balcony01_Ceiling
+    2300002: Balcony01_floor
+    2300004: Balcony01_Railing
+    2300006: Balcony01_Wall
+    2300008: Balcony02_Ceiling
+    2300010: Balcony02_Floor
+    2300012: Balcony02_Railing
+    2300014: Balcony02_wall01
+    2300016: Bathroom _Ceiling
+    2300018: Bathroom _Floor
+    2300020: Bathroom _Wall
+    2300022: Bedroom_Ceiling
+    2300024: Bedroom_Floor01
+    2300026: Bedroom_Wall01
+    2300028: ChildrenRoom_Ceiling
+    2300030: ChildrenRoom_Floor
+    2300032: ChildrenRoom_Wall01
+    2300034: ChildrenRoom_Wall02
+    2300036: ChildrenRoom_Window_glass
+    2300038: ChildrenRoom_Windows_Frame
+    2300040: DiningRoom_Ceiling
+    2300042: DiningRoom_Wall
+    2300044: Kitchen_ceiling
+    2300046: Kitchen_floor
+    2300048: Kitchen_Wall
+    2300050: LivingRoom_Celing
+    2300052: LivingRoom_Floor01
+    2300054: LivingRoom_Floor02
+    2300056: LivingRoom_Wall
+    2300058: LivingRoom_Wall03
+    2300060: Study_Celing
+    2300062: Study_Floor
+    2300064: Study_Wall
+    3300000: Balcony01_Ceiling
+    3300002: Balcony01_floor
+    3300004: Balcony01_Railing
+    3300006: Balcony01_Wall
+    3300008: Balcony02_Ceiling
+    3300010: Balcony02_Floor
+    3300012: Balcony02_Railing
+    3300014: Balcony02_wall01
+    3300016: Bathroom _Ceiling
+    3300018: Bathroom _Floor
+    3300020: Bathroom _Wall
+    3300022: Bedroom_Ceiling
+    3300024: Bedroom_Floor01
+    3300026: Bedroom_Wall01
+    3300028: ChildrenRoom_Ceiling
+    3300030: ChildrenRoom_Floor
+    3300032: ChildrenRoom_Wall01
+    3300034: ChildrenRoom_Wall02
+    3300036: ChildrenRoom_Window_glass
+    3300038: ChildrenRoom_Windows_Frame
+    3300040: DiningRoom_Ceiling
+    3300042: DiningRoom_Wall
+    3300044: Kitchen_ceiling
+    3300046: Kitchen_floor
+    3300048: Kitchen_Wall
+    3300050: LivingRoom_Celing
+    3300052: LivingRoom_Floor01
+    3300054: LivingRoom_Floor02
+    3300056: LivingRoom_Wall
+    3300058: LivingRoom_Wall03
+    3300060: Study_Celing
+    3300062: Study_Floor
+    3300064: Study_Wall
+    4300000: Bedroom_Wall01
+    4300002: Balcony01_Wall
+    4300004: Study_Wall
+    4300006: Kitchen_Wall
+    4300008: Bathroom _Wall
+    4300010: Bathroom _Floor
+    4300012: Kitchen_floor
+    4300014: Bedroom_Floor01
+    4300016: Study_Floor
+    4300018: Balcony02_wall01
+    4300020: Balcony01_Railing
+    4300022: DiningRoom_Wall
+    4300024: LivingRoom_Wall
+    4300026: Balcony01_floor
+    4300028: ChildrenRoom_Window_glass
+    4300030: ChildrenRoom_Wall01
+    4300032: ChildrenRoom_Floor
+    4300034: ChildrenRoom_Wall02
+    4300036: LivingRoom_Wall03
+    4300038: DiningRoom_Ceiling
+    4300040: LivingRoom_Celing
+    4300042: Study_Celing
+    4300044: ChildrenRoom_Ceiling
+    4300046: LivingRoom_Floor02
+    4300048: Balcony01_Ceiling
+    4300050: Bedroom_Ceiling
+    4300052: Bathroom _Ceiling
+    4300054: Kitchen_ceiling
+    4300056: ChildrenRoom_Windows_Frame
+    4300058: Balcony02_Railing
+    4300060: Balcony02_Floor
+    4300062: Balcony02_Ceiling
+    4300064: LivingRoom_Floor01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
